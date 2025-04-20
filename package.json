@@ -1,0 +1,14 @@
+{
+  "name": "goontector",
+  "version": "1.0.0",
+  "description": "Selfbot script to extract and filter Discord members from condo servers for moderation or personal use.",
+  "main": "goon.js",
+  "scripts": {
+    "start": "node goon.js"
+  },
+  "author": "hemiguise",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.5"
+  }
+}
